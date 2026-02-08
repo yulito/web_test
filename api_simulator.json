@@ -1,0 +1,16 @@
+{
+  "galeria": [
+    { "id": 1, "url": "img/img1.png", "nombre": "Montañas Altas", "categoria": "naturaleza", "desc": "Cumbres nevadas." },
+    { "id": 2, "url": "img/img2.png", "nombre": "Bosque Niebla", "categoria": "naturaleza", "desc": "Pinos en bruma." },
+    { "id": 3, "url": "img/img3.png", "nombre": "Océano Azul", "categoria": "naturaleza", "desc": "Olas rompiendo." },
+    { "id": 4, "url": "img/img4.png", "nombre": "Desierto Sol", "categoria": "naturaleza", "desc": "Dunas doradas." },
+    { "id": 5, "url": "img/img5.png", "nombre": "Ciudad Noche", "categoria": "urbano", "desc": "Luces urbanas." },
+    { "id": 6, "url": "img/img6.png", "nombre": "Rascacielos", "categoria": "urbano", "desc": "Acero y cristal." },
+    { "id": 7, "url": "img/img7.png", "nombre": "Metro Central", "categoria": "urbano", "desc": "Ritmo de ciudad." },
+    { "id": 8, "url": "img/img8.png", "nombre": "Cielo Astro", "categoria": "espacio", "desc": "Vía láctea." },
+    { "id": 9, "url": "img/img9.png", "nombre": "Nebulosa Rosa", "categoria": "espacio", "desc": "Nube estelar." },
+    { "id": 10, "url": "img/img10.png", "nombre": "Planeta Rojo", "categoria": "espacio", "desc": "Superficie de Marte." },
+    { "id": 11, "url": "img/img11.png", "nombre": "Agujero Negro", "categoria": "espacio", "desc": "Horizonte de eventos." },
+    { "id": 12, "url": "img/img12.png", "nombre": "Galaxia Espiral", "categoria": "espacio", "desc": "Brazos infinitos." }
+  ]
+}
